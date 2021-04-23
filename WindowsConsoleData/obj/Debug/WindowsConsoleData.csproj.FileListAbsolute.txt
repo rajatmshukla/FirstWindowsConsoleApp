@@ -1,0 +1,6 @@
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleData\bin\Debug\WindowsConsoleData.exe.config
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleData\bin\Debug\WindowsConsoleData.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleData\bin\Debug\WindowsConsoleData.pdb
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleData\obj\Debug\WindowsConsoleData.csproj.CoreCompileInputs.cache
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleData\obj\Debug\WindowsConsoleData.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleData\obj\Debug\WindowsConsoleData.pdb

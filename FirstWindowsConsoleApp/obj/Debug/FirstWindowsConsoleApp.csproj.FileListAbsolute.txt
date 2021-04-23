@@ -1,0 +1,17 @@
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\FirstWindowsConsoleApp.exe.config
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\FirstWindowsConsoleApp.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\FirstWindowsConsoleApp.pdb
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\obj\Debug\FirstWindowsConsoleApp.csprojAssemblyReference.cache
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\obj\Debug\FirstWindowsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\obj\Debug\FirstWindowsConsoleApp.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\obj\Debug\FirstWindowsConsoleApp.pdb
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleData.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleData.pdb
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleData.exe.config
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\obj\Debug\FirstWindowsConsoleApp.csproj.CopyComplete
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleEntity.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleUtility.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleEntity.pdb
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleEntity.exe.config
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleUtility.pdb
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\FirstWindowsConsoleApp\bin\Debug\WindowsConsoleUtility.exe.config

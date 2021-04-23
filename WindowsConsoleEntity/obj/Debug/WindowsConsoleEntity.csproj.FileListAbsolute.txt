@@ -1,0 +1,7 @@
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleEntity\bin\Debug\WindowsConsoleEntity.exe.config
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleEntity\bin\Debug\WindowsConsoleEntity.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleEntity\bin\Debug\WindowsConsoleEntity.pdb
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleEntity\obj\Debug\WindowsConsoleEntity.csprojAssemblyReference.cache
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleEntity\obj\Debug\WindowsConsoleEntity.csproj.CoreCompileInputs.cache
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleEntity\obj\Debug\WindowsConsoleEntity.exe
+C:\Users\RajatShukla\source\repos\FirstWindowsConsoleApp\WindowsConsoleEntity\obj\Debug\WindowsConsoleEntity.pdb
