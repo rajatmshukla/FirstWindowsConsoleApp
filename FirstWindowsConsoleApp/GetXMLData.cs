@@ -35,7 +35,7 @@ namespace FirstWindowsConsoleApp
                     emps.EmpName = dt.Rows[i][1].ToString();
                     emps.deptno = int.Parse(dt.Rows[i][2].ToString());
                     emps.salary = decimal.Parse(dt.Rows[i][3].ToString());
-
+                    emps.DateUpdated = dt.Rows[i][4].ToString();
                     emplist.Add(emps);
 
                     //xml = "<Root>";
@@ -53,7 +53,7 @@ namespace FirstWindowsConsoleApp
             xml = "<Root>";
             foreach (Emp e in emplist)
             {
-                xml += "<EmpDetails>" + Utility.Serialize<Emp>(e) + "</EmpDetails>";
+                xml += Utility.Serialize<Emp>(e);
             }
             xml = xml + "</Root>";
 

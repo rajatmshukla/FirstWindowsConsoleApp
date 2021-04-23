@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace WindowsConsoleEntity
 {
@@ -12,6 +13,8 @@ namespace WindowsConsoleEntity
         public string EmpName { get; set; }
         public int deptno { get; set; }
         public decimal salary { get; set; }
+
+        //[XmlIgnore]
         public string DateUpdated { get; set; }
 
     }
